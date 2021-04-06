@@ -1,0 +1,6 @@
+# onenet
+okhttp+springboot+onenet
+
+Myapp是在Android app里使用okhttp获取本地服务器信息
+
+SpringTest是springboot搭建的项目,搭建本地服务器去访问onenet平台的信息
