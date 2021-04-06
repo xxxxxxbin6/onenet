@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myApp</string>
+    <string name="getInfo">获取信息</string>
+    <string name="data">当前甲醛浓度:</string>
+</resources>
